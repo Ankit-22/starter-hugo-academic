@@ -1,6 +1,6 @@
 ---
 title: Ankitmani Tripathi
-role: Full Stack Developer, Barclays
+role: Full Stack Developer
 avatar_filename: img_20190730_233705_211.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -17,32 +17,26 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Ankit-22
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/ankitmani22/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Barclays UK
+    url: https://home.barclays/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B. Tech in Information Technology
+      institution: K.j. Somiaya College of Engineering
+      year: ""
+    - course: HSC
+      institution: Shri T.P. Bhatia Jr. College
+      year: ""
+    - course: SSC
+      institution: S.V.N. English School
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
