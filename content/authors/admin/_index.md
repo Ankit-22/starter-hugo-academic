@@ -48,7 +48,6 @@ superuser: true
 highlight_name: true
 ---
 
-# About Me!
 I am a passionate programmer and tech enthusiast. I have 2 years of experience as a Full-Stack Developer and 8 months of internship experience. I have experience with REST APIs, micro-services and AWS cloud. My short term goal is to work on and design extremely scalable and reliable systems, hence I am looking forward to working in a fast paced environment where I can learn new things everyday.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
